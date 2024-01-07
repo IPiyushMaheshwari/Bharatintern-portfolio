@@ -1,0 +1,78 @@
+#mainhome{
+    background-color: #ecf4d6;
+}
+.one{
+    text-align: center;
+}
+.one b{
+    color: #265073;
+    text-decoration:#ecf4d6 underline;
+}
+#butt{
+    color:#010101;
+    background-color:#b6bbc4;
+}
+#two{
+    height:500px;
+    width:500px;
+    line-height:2.5;
+}
+#three{
+    height:400px;
+    width: 400px;
+    /*clip-path: circle();*/
+}
+#two h3{
+    color:#265073;
+}
+#two h1 {
+    color: #265073;
+}
+#two p{
+    color:#2d9596;
+}
+#twoh{
+    background-color:#9ad0c2;
+    display:flex;
+    justify-content:space-between;
+    padding: 40px;
+    width:60%;
+    margin:5rem auto 0 auto;
+}
+/*skills*/
+#skone{
+    height:300px;
+    width:600px;
+    line-height: 2.5;
+}
+#sktwo{
+    height:300px;
+    width:400px;
+    float:right;
+}
+#colour{
+    background-color:pink;
+}
+/*contact*/
+#coone{
+    text-align:center;
+    background-color:skyblue;
+}
+#cothree{
+    color:white;
+}
+#coimg{
+    height:20px;
+    width: 20px;
+}
+/*projects*/
+#proone{
+    background-color:rgb(62, 216, 183);
+}
+#protwo{
+    float:right;
+}
+.prothree{
+    height:500px;
+     width:500px;
+}
